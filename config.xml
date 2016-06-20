@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <widget id="com.audero.free.utility.auderofeedreader" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Audero Feed Reader</name>
+    <name>Feedmaker</name>
     <description>
-        Audero Feed Reader is a very basic feed aggregator to keep in one place all the news and the articles you care about.
+        Feedmaker is gratis 
     </description>
     <author email="a.derosa@gmail.com" href="http://www.audero.it">
         Aurelio De Rosa
